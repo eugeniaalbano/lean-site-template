@@ -1,4 +1,4 @@
-baseURL = "https://eugeniaalbano.github.io/lean-site-template/"
+baseURL = "https://rtcharity.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -14,20 +14,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Altruismo Efficace Italia"
+  title = "Local EA Website"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Altruismo Efficace Italia"
+  fullTitle = "Effective Altruism Site Title"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Altruismo Efficace Italia"
-  orgLocations = "Italia"
-  contactEmail = "..."
+  legalOrgName = "Effective Altruism <City Here>"
+  orgLocations = "this location and that location"
+  contactEmail = "yourEAGroupEmail@here.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -37,20 +37,20 @@ DefaultContentLanguage = "en"
   home = "Home"
   faq = "FAQ"
   effectiveAltruism = "Effective Altruism"
-  aboutEA = "Cos'è l'Altruismo Efficace"
-  readingMaterial = "Materiali di lettura"
-  keyTerms = "Terminologia"
-  organizations = "Organizzazioni"
-  contact= "Contatti"
+  aboutEA = "About EA"
+  readingMaterial = "Reading Material"
+  keyTerms = "Key Terms"
+  organizations = "Organizations"
+  contact= "Contact"
 
   [Languages.en.pages]
   ## -- Page Headers -- ##
-  contactPageHeader = "Contattaci"
-  aboutEAPageHeader = "Cos'è l'Altruismo Efficace?"
+  contactPageHeader = "Contact us"
+  aboutEAPageHeader = "What is Effective Altruism?"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Chi siamo?"
+  topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"

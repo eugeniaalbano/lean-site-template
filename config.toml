@@ -20,14 +20,14 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "Altruismo Efficace Italia"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Altruismo Efficace Italia"
+  orgLocations = "Italia"
+  contactEmail = "eugenia.albano@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -37,20 +37,20 @@ DefaultContentLanguage = "en"
   home = "Home"
   faq = "FAQ"
   effectiveAltruism = "Effective Altruism"
-  aboutEA = "About EA"
-  readingMaterial = "Reading Material"
-  keyTerms = "Key Terms"
-  organizations = "Organizations"
-  contact= "Contact"
+  aboutEA = "Cos'è l'Altruismo Efficace"
+  readingMaterial = "Materiali di lettura"
+  keyTerms = "Terminologia"
+  organizations = "Organizzazioni"
+  contact= "Contatti"
 
   [Languages.en.pages]
   ## -- Page Headers -- ##
-  contactPageHeader = "Contact us"
-  aboutEAPageHeader = "What is Effective Altruism?"
+  contactPageHeader = "Contattaci"
+  aboutEAPageHeader = "Cos'è l'Altruismo Efficace?"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Who are we?"
+  topBannerText = "Chi siamo?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"

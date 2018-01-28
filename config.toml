@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Altruismo Efficace Italia"
   weight = 1
   languageCode = "en"
 
@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"
   [Languages.en.groupinfo]
   legalOrgName = "Altruismo Efficace Italia"
   orgLocations = "Italia"
-  contactEmail = "eugenia.albano@gmail.com"
+  contactEmail = "..."
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
